@@ -75,7 +75,7 @@ Using my calculator for a ~16oz bread
 
 2 lb bake test
 
-Using my calculator for a ~16oz bread 
+Using my calculator for a ~32oz bread 
 
 ||||
 |-|-|-|

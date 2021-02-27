@@ -14,20 +14,9 @@ Result:
 
 #### Test 02
 
-8		oz	water @ 90
-2.25	tsp	yeast
-2		tbl	sugar
+2 lb bake test
 
-
-combine liquids, add liquids to bread machine
-
-12		oz	bread flour
-1.5		tsp	salt
-
-then flour to bread machine
-
-bake
-
+Did math wrong. And didn't know the 5:3 ratio
 
 ||||
 |-|-|-|
@@ -35,11 +24,41 @@ bake
 |2.25|tsp|yeast||
 |2|tbl|sugar||
 
+- Combine liquids
+- Add liquids to bread machine
 
 ||||
 |-|-|-|
 |12|oz|bread flour||
 |1.5|tsp|salt||
 
+- Add flour and salt to bread machine
+- Choose bake options
+
+#### Test 03
+
+2 lb bake test
+
+5:3 flour:water ratio
+
+10oz flour to 6 oz water
+
+12 /5 = 2.4
 
 
+||||
+|-|-|-|
+|6|oz|Water|90 degrees|
+|2.25|tsp|yeast||
+|2|tbl|sugar||
+
+- Combine liquids
+- Add liquids to bread machine
+
+||||
+|-|-|-|
+|10|oz|bread flour||
+|1.5|tsp|salt||
+
+- Add flour and salt to bread machine
+- Choose bake options

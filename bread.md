@@ -1,5 +1,12 @@
 ### Bread Machine 
 
+Golden Bread Ratio 1:
+- 100% bread flour
+- 70% water
+- 1% fresh yeast
+- 2% salt
+
+
 #### Test 01
 
 Recipe:

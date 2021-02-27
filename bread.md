@@ -52,26 +52,20 @@ See main info, this may or may not work as all ratios are just wacky
 
 2 lb bake test
 
-5:3 flour:water ratio
-
-10oz flour to 6 oz water
-
-12 /5 = 2.4
-
 
 ||||
 |-|-|-|
 |6|oz|Water|90 degrees|
-|2.25|tsp|yeast||
-|2|tbl|sugar||
+|2|tsp|Water||
+|.75|tsp|yeast||
 
 - Combine liquids
 - Add liquids to bread machine
 
 ||||
 |-|-|-|
-|10|oz|bread flour||
-|1.5|tsp|salt||
+|9|oz|bread flour||
+|1|tsp|salt||
 
 - Add flour and salt to bread machine
 - Choose bake options

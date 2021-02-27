@@ -26,7 +26,10 @@ Result:
 
 2 lb bake test
 
-Did math wrong. And didn't know the 5:3 ratio
+Did math wrong. 
+And didn't know the 5:3 ratio.
+See main info, this may or may not work as all ratios are just wacky
+
 
 ||||
 |-|-|-|

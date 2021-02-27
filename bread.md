@@ -1,5 +1,8 @@
 ### Bread Machine 
 
+My calculator
+https://docs.google.com/spreadsheets/d/1MEZuHC3yiRl3wWLflTgmMqg6E745YuyTQpF4t1Du7YA/edit#gid=0
+
 Golden Bread Ratio 1:
 - 100% bread flour
 - 70% water

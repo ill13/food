@@ -50,8 +50,9 @@ See main info, this may or may not work as all ratios are just wacky
 
 #### Test 03
 
-2 lb bake test
+1 lb bake test
 
+Using my calculator for a ~16oz bread 
 
 ||||
 |-|-|-|
@@ -66,6 +67,29 @@ See main info, this may or may not work as all ratios are just wacky
 |-|-|-|
 |9|oz|bread flour||
 |1|tsp|salt||
+
+- Add flour and salt to bread machine
+- Choose bake options
+
+#### Test 04
+
+2 lb bake test
+
+Using my calculator for a ~16oz bread 
+
+||||
+|-|-|-|
+|12|oz|Water|90 degrees|
+|3.5|tsp|Water||
+|1.5|tsp|yeast||
+
+- Combine liquids
+- Add liquids to bread machine
+
+||||
+|-|-|-|
+|18|oz|bread flour||
+|2|tsp|salt||
 
 - Add flour and salt to bread machine
 - Choose bake options
